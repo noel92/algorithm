@@ -1,0 +1,8 @@
+//
+// Created by noel on 2021/3/23.
+//
+
+#ifndef ALGORITHM_SINGLY_LINKED_LIST_H
+#define ALGORITHM_SINGLY_LINKED_LIST_H
+
+#endif //ALGORITHM_SINGLY_LINKED_LIST_H
